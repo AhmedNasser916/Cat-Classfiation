@@ -1,7 +1,7 @@
 # Cats and Dogs classification using CNN
 
 The goal for task is designing and building classifiers that would effectively classify images of cats and dogs.
-The main goal of this task is to develop a system that can identify images of cats and dogs. The input for this task is images of dogs or cats from training dataset, while the output is the classification accuracy on test dataset. The Dogs vs Cats dataset can be downloaded from the Kaggle website. The dataset contains a set of images of cats and dogs. Our main aim here is for the model to learn various distinctive features of cat and dog. Once the training of the model is done it will be able to differentiate images of cat and dog.
+and to develop a system that can identify images of cats and dogs. The input for this task is images of dogs or cats from training dataset, while the output is the classification accuracy on test dataset. The Dogs vs Cats dataset can be downloaded from the Kaggle website. The dataset contains a set of images of cats and dogs. Our main aim here is for the model to learn various distinctive features of cat and dog. Once the training of the model is done it will be able to differentiate images of cat and dog.
 
 ------
 
